@@ -168,7 +168,7 @@ public class ResourceCentre {
 		return cc;
 		
 	}
-	//to be completed by hon wee
+	//to be completed by hon wee  
 	public static void addCamcorder(ArrayList<Camcorder> camcorderList, Camcorder cc) {
 		
 		camcorderList.add(cc);

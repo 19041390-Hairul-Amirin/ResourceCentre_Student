@@ -230,7 +230,7 @@ public class ResourceCentre {
 	}
 	
 	//================================= Option 4 Return =================================
-	//JunWei 19041126 -
+	//JunWei 19041126 -???
 	public static boolean doReturnCamcorder(ArrayList<Camcorder> camcorderList,String tag) {
 
 	    boolean isReturned = false;

@@ -249,7 +249,7 @@ public class ResourceCentre {
 	}
 //tbc jw
 	public static boolean doReturnChromebook(ArrayList<Chromebook> chromebookList,String tag){
-		boolean isReturned = false;s
+		boolean isReturned = false;
 		// write your code here
 		return isReturned;
 	}

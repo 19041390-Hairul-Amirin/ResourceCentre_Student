@@ -145,12 +145,8 @@ public class ResourceCentre {
 
 	public static String retrieveAllChromebook(ArrayList<Chromebook> chromebookList) {
 		String output = "";
-
-	
-		
+		// write your code here
 		return output;
-		
-		// tbc by Hairul
 	}
 	public static void viewAllChromebook(ArrayList<Chromebook> chromebookList) {
 		
@@ -168,7 +164,6 @@ public class ResourceCentre {
 		return cc;
 		
 	}
-	//to be completed by hon wee  
 	public static void addCamcorder(ArrayList<Camcorder> camcorderList, Camcorder cc) {
 		
 		camcorderList.add(cc);
@@ -183,13 +178,11 @@ public class ResourceCentre {
 	}	
 	public static void addChromebook(ArrayList<Chromebook> chromebookList, Chromebook cb) {
 		// write your code here
-		
 	}
 	
 	//================================= Option 3 Loan =================================
-	
 	public static boolean doLoanCamcorder(ArrayList<Camcorder> camcorderList, String tag, String dueDate) {
-	//To be completed by Jibin George	
+		
 		boolean isLoaned = false;
 
 		for (int i = 0; i < camcorderList.size(); i++) {
@@ -254,7 +247,7 @@ public class ResourceCentre {
 			System.out.println("Camcorder " + tag + " returned");
 		}
 	}
-//tbc jw
+//tbc junwei test
 	public static boolean doReturnChromebook(ArrayList<Chromebook> chromebookList,String tag){
 		boolean isReturned = false;
 		// write your code here

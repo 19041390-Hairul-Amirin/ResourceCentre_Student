@@ -187,7 +187,7 @@ public class ResourceCentre {
         cb = new Chromebook(tag,description,os);
    
 		return cb;
-		
+		//completed by honwee
 	}	
 	public static void addChromebook(ArrayList<Chromebook> chromebookList, Chromebook cb) {
 		// write your code here

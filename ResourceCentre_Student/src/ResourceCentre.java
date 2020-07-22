@@ -164,6 +164,7 @@ public class ResourceCentre {
 		return cc;
 		
 	}
+	//to be completed by hon wee
 	public static void addCamcorder(ArrayList<Camcorder> camcorderList, Camcorder cc) {
 		
 		camcorderList.add(cc);
@@ -178,6 +179,7 @@ public class ResourceCentre {
 	}	
 	public static void addChromebook(ArrayList<Chromebook> chromebookList, Chromebook cb) {
 		// write your code here
+		
 	}
 	
 	//================================= Option 3 Loan =================================

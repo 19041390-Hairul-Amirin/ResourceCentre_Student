@@ -145,8 +145,12 @@ public class ResourceCentre {
 
 	public static String retrieveAllChromebook(ArrayList<Chromebook> chromebookList) {
 		String output = "";
-		// write your code here
+
+	
+		
 		return output;
+		
+		// tbc by Hairul
 	}
 	public static void viewAllChromebook(ArrayList<Chromebook> chromebookList) {
 		
